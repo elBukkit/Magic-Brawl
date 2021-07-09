@@ -1,0 +1,6 @@
+spells:
+  base_brawl:
+    cooldown: ""
+    cast_player_message: ""
+  brawlers:
+    title: "Select Brawler"

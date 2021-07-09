@@ -1,0 +1,9 @@
+wands:
+  base_brawl:
+    bound_instructions: ""
+    wand_instructions_header: ""
+    wand_instructions_footer: ""
+    owner_description: ""
+  shelly_shotgun:
+    name: Buckshot
+    description: Shelly's boomstick fires a wide spread of pellets to a medium range. The more pellets hit, the greater the damage.

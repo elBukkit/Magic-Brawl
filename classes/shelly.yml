@@ -1,0 +1,6 @@
+shelly:
+  inherit: base_brawl
+  entity_attributes:
+    generic_max_health: 3800
+  class_items:
+    - shelly_shotgun
