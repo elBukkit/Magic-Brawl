@@ -1,0 +1,6 @@
+examples:
+  brawl:
+    instructions: |-
+      &8| &c&nBRAWL STARS &r
+      &8| &f Use &3/cast brawlers&f to select your brawler &r
+      &8| &e Work In Progress &r
