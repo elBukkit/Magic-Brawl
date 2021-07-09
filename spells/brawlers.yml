@@ -1,0 +1,20 @@
+brawlers:
+  actions:
+    cast:
+      - class: Selector
+  parameters:
+    auto_close: true
+    placeholder_icon: gray
+    confirm_filler: gray
+    quiet: false
+    loud: true
+    options:
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - switch_class: shelly
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
