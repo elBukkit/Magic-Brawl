@@ -1,0 +1,7 @@
+classes:
+  shelly:
+    name: Shelly
+    description: "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!"
+  spike:
+    name: Spike
+    description: "Spike throws cactus grenades that send needles flying, and a show-stopping Super: a field of cactus spines that slows down and damages enemies!"

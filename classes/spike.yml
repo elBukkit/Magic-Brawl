@@ -1,0 +1,5 @@
+spike:
+  inherit: base_brawl
+  icon: yellow_stained_glass_pane{27001}
+  entity_attributes:
+    generic_max_health: 2400
