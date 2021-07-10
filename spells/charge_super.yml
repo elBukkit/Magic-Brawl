@@ -1,0 +1,10 @@
+charge_super:
+  passive: true
+  triggers: damage_dealt
+  actions:
+    cast:
+      - class: ModifyCurrency
+        currency: super
+  parameters:
+    target: self
+    value: 0

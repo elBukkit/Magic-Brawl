@@ -1,0 +1,4 @@
+custom_currency:
+  super:
+    max: 1
+    default: 0
