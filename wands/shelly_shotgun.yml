@@ -6,3 +6,9 @@ shelly_shotgun:
   alternate_spell: shelly_super
   mana_max: 300
   mana_regeneration: 50
+  overrides:
+    charge_super:
+      value: 0.25
+  # TODO: Find a way to put this on the class
+  potion_effects:
+    jump: -100

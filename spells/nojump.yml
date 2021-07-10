@@ -1,0 +1,11 @@
+nojump:
+  passive: true
+  triggers: join,unlock
+  actions:
+    cast:
+      - class: PotionEffect
+  parameters:
+    target: self
+    add_effects:
+      slow: 100
+    duration: 100 hours
