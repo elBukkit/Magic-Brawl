@@ -1,5 +1,8 @@
 shelly_shotgun:
+  icon: stick{27001}
   inherit: base_brawl
   class: shelly
   active_spell: shelly_shotgun
   alternate_spell: shelly_super
+  mana_max: 300
+  mana_regeneration: 50

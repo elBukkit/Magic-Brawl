@@ -8,12 +8,13 @@ brawlers:
     confirm_filler: gray
     quiet: false
     loud: true
+    show_unavailable: true
     options:
       - placeholder: true
       - placeholder: true
       - placeholder: true
       - switch_class: shelly
-      - placeholder: true
+      - switch_class: spike
       - placeholder: true
       - placeholder: true
       - placeholder: true

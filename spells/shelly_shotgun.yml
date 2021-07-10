@@ -12,7 +12,7 @@ shelly_shotgun:
     cooldown: []
     cast:
       -  class: EffectSingle
-         sound: war.shotgun
+         sound: brawl.shotgun
          sound_pitch: 1.2
          location: origin
     tick:
@@ -26,7 +26,7 @@ shelly_shotgun:
     hit_entity_armor_stand:
       -  class: EffectSingle
          location: target
-         sound: war.ricochet
+         sound: brawl.ricochet
          particle: block_crack
          material: redstone_block
          particle_count: 6
@@ -36,7 +36,7 @@ shelly_shotgun:
     headshot_armor_stand:
       -  class: EffectSingle
          location: target
-         sound: war.ricochet
+         sound: brawl.ricochet
          particle: block_crack
          material: redstone_block
          particle_count: 6
@@ -128,5 +128,5 @@ shelly_shotgun:
     magic_damage: false
     target_armor_stand: true
     no_damage_ticks: 0
-    charges: 3
-    cooldown: 3000
+  costs:
+    mana: 100

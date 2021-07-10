@@ -2,5 +2,7 @@ spells:
   base_brawl:
     cooldown: ""
     cast_player_message: ""
+    insufficient_resources: ""
+    has_class: "(Selected)"
   brawlers:
     title: "Select Brawler"

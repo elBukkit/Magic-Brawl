@@ -17,3 +17,4 @@ base_brawl:
     bar_title: $class
     bar_style: segmented_6
     bar_color: purple
+    display_mode: mana
