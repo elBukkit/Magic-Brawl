@@ -1,2 +1,5 @@
 base_brawl:
   health_scale: 20
+  spells:
+    - charge_super
+    - nojump

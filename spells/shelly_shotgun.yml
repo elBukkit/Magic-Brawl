@@ -115,8 +115,7 @@ shelly_shotgun:
     range: 16
     multiply: 9
     hitbox: true
-    player_damage: 4
-    entity_damage: 8
+    damage: 300
     target_breakables: 1
     destructible: solid
     destructible_durability: 50

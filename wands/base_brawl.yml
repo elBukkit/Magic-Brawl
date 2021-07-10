@@ -3,6 +3,7 @@ base_brawl:
   right_click: cast
   left_click: alt_cast
   bound: true
+  keep: true
   indestructible: true
   undroppable: true
   unstashable: true
@@ -16,5 +17,7 @@ base_brawl:
   boss_bar:
     bar_title: $class
     bar_style: segmented_6
-    bar_color: purple
+    bar_color: red
     display_mode: mana
+  xp_bar:
+    display_mode: super
