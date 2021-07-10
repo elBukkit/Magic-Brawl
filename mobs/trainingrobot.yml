@@ -1,0 +1,5 @@
+trainingrobot:
+  type: husk
+  health: 1500
+  default_drops: false
+  ai: false
