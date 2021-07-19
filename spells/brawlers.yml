@@ -4,8 +4,8 @@ brawlers:
       - class: Selector
   parameters:
     auto_close: true
-    placeholder_icon: gray
-    confirm_filler: gray
+    placeholder_icon: icon_placeholder
+    confirm_filler: icon_placeholder
     quiet: false
     loud: true
     show_unavailable: true
