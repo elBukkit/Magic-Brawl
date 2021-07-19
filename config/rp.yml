@@ -1,1 +1,5 @@
 resource_pack: "http://rp.elmakers.com/Magic-brawl-RP-1.17.zip"
+
+alternate_resource_packs:
+  brawl:
+    url: "http://rp.elmakers.com/Magic-brawl-RP-1.16.zip"

@@ -2,6 +2,8 @@ shelly:
   inherit: base_brawl
   icon: light_blue_stained_glass_pane{27001}
   entity_attributes:
-    generic_max_health: 3800
+    generic_max_health:
+      value: 3800
+      operation: base
   class_items:
     - shelly_shotgun

@@ -18,6 +18,10 @@ base_brawl:
     bar_title: $class
     bar_style: segmented_6
     bar_color: red
-    display_mode: mana
-  xp_bar:
-    display_mode: super
+    mode: mana
+  xp_display:
+    mode: currency
+    currency: super
+  level_display:
+    mode: attribute
+    attribute: health
